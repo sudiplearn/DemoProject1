@@ -14,7 +14,8 @@ public class AppTest {
 		System.out.println("Hello!, Happy Sales People");
 		System.out.println("This App shows sales data");
 		
-		System.out.println("Test");
+		System.out.println("Test 1");
+		System.out.println("Test 2");
 		
 	}
 
